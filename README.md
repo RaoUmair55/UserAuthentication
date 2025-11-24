@@ -37,15 +37,15 @@ A **secure user authentication system** built with **Node.js, Express, and Mongo
 ```bash
 git clone https://github.com/RaoUmair55/UserAuthentication.git
 ```
-##Create .env
+## Create .env
 
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_jwt_secret
-REFRESH_TOKEN_SECRET=your_refresh_token_secret
-EMAIL=your_email@gmail.com
-EMAIL_PASSWORD=your_app_password
+- MONGO_URI=your_mongodb_connection_string
+- JWT_SECRET=your_jwt_secret
+- REFRESH_TOKEN_SECRET=your_refresh_token_secret
+- EMAIL=your_email@gmail.com
+- EMAIL_PASSWORD=your_app_password
 
-##Start server
+## Start server
 
 npm run start
 
